@@ -48,7 +48,7 @@ Contents include:
 - R Markdown data cleaning workflow + data report preparation
 - Data Quality Report
 
-### final-report//
+### final-report/
 
 Contains the final collaborative research report produced after all statistical analyses were completed.
 
