@@ -27,3 +27,44 @@ As a member of the DEPC team, I contributed to multiple stages of the survey ope
 ---
 
 ## Repository Structure
+
+### methodology/
+
+Contains materials related to the survey design and validation process.
+
+- Survey Questionnaire
+- Survey Codebook
+- Cronbach's Alpha Report
+
+### data-quality-control/
+
+The primary focus of this repository.
+
+This folder documents my work in preparing the final dataset through data cleaning, validation, quality assurance, and preprocessing.
+
+Contents include:
+
+- R Markdown data cleaning workflow + data report preparation
+- Data Quality Report
+
+### final-report//
+
+Contains the final collaborative research report produced after all statistical analyses were completed.
+
+--- 
+
+## Skills Demonstrated
+- Instrument Reliability Assessment
+- Data Cleaning
+- Data Validation
+- Data Quality Assurance
+- Exploratory Data Analysis
+- Descriptive Statistics
+- Statistical Reporting
+- R Programming
+
+## Notes
+
+This project was completed collaboratively as part of Stat 143: Survey Operations.
+
+This repository highlights my individual contributions, particularly my work on questionnaire reliability assessment and data quality control, while the final report represents the collective effort of the entire batch.
