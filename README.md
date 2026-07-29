@@ -16,9 +16,10 @@ This repository focuses primarily on my work in **Data Encoding and Processing C
 ## My Contributions
 
 As a member of the DEPC team, I contributed to multiple stages of the survey operations process, including:
+
 - Led the reliability assessment of the initial questionnaire through **Cronbach's alpha analysis** during the pilot testing phase
-- Cleaned, validated, and standardized survey responses collected from over 600 respondents.
-- Performed data quality checks by identifying missing values, inconsistent responses, and logical errors.
+- Led much of the data cleaning, validation, and preprocessing workflow for the survey dataset.
+- Standardized variable coding and performed data quality checks to identify missing values, inconsistencies, and logical errors.
 - Directed follow-up validation efforts with enumerators to resolve verifiable discrepancies in the dataset.
 - Documented unresolved data issues that required respondent confirmation to preserve data integrity and transparency.
 - Prepared the analysis-ready dataset used by all statistical analysis teams.
