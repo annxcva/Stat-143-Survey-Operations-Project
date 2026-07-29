@@ -5,9 +5,9 @@
 
 ## Overview
 
-This repository contains my contributions to our class-wide Survey Operations project in **Stat 143** at the University of the Philippines Diliman.
+This repository contains my contributions to our batch-wide Survey Operations project in **Stat 143** at the University of the Philippines Diliman.
 
-Our class conducted a community survey in Barangay San Martin de Porres, Quezon City to investigate **transportation-induced time poverty among urban commuters**. The project covered the complete survey operations workflow—from questionnaire development and pilot testing to data collection, quality control, statistical analysis, and the preparation of the final research report.
+Our batch conducted a community survey in Barangay San Martin de Porres, Quezon City to investigate **transportation-induced time poverty among urban commuters**. The project covered the complete survey operations workflow—from questionnaire development and pilot testing to data collection, quality control, statistical analysis, and the preparation of the final research report.
 
 This repository focuses primarily on my work in **Data Encoding and Processing Control (DEPC)**, where I was responsible for ensuring the quality and reliability of the dataset before it was used for downstream statistical analyses. 
 
